@@ -24,6 +24,6 @@ This project simulates rolling a dice and displays a random number (1–6) with 
 
 ## 📸 Screenshot  
 
-![Dice Roll Simulator Screenshot](./screenshot.png)
+![Dice Roll Simulator Screenshot](DiceRollSimulator/Screenshot.png)
 
 ---
